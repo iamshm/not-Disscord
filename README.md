@@ -8,4 +8,4 @@ Front End is deployed on netlify and is built using React Js
 
 Back End is deployed on heroku and is build using Node and socket.io
 
-![DashBoard}(https://github.com/iamshm/not-Disscord/blob/master/screenshots/Screenshot%20(254).png)
+![DashBoard](https://github.com/iamshm/not-Disscord/blob/master/screenshots/Screenshot%20(254).png)
